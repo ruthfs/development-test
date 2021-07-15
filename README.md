@@ -1,34 +1,10 @@
-# development-test
+# Development Test - API Movies
 Generation Test
 
+API desenvolvida para listar, inserir, atualizar e deletar filmes da base de dados!
 
-Sejam bem-vindos a próxima etapa galera.
+Construida em Java, usando o Spring, Mysql e Postman localmente.
 
-A ideia é que vocẽs criem um "CRUD" de dados.
+Foi realizado  deploy da aplicação para o Heroku, junto com sua documentação pelo Swagger.
 
-**Criar uma aplicação (REST) que consiga listar, inserir, atualizar e excluir filmes.**
-
-Vamos utilizar o Java.
-
-Não há necessidade de disponibilizar um front-end. Se concentrem na lógica de programação (API).
-
-Neste repositório tem um arquivo chamado movies.json para auxíliar vocês.
-
-
-## PONTOS IMPORTÂNTES.
-
-**REALIZEM O FORK DESTE PROJETO E REALIZEM O COMMIT NO REPOSITÓRIO PESSOAL DE VOCÊS.**
-
-**O README DE VOCÊS DEVE DEMONSTRAR COMO POSSO  EXECUTAR O PROGRAMA**
-
-**NÃO HÁ NECESSIDADE DE DISPONIBILIZAR UM FRONT**
-```diff
-# O TESTE TEM COMO OBJETIVO ACOMPANHAR A LINHA DE RACIOCÍNIO, - ENTÃO MESMO SE NÃO RODAR ME MANDEM, POR FAVOR!
-```
-# BOA SORTE, DÚVIDAS PODEM ME PROCURAR.
-
-E-mail: rogerio.silva@tksolution.com
-LinkedIn: https://www.linkedin.com/in/rog%C3%A9rio-l%C3%BAcio-da-silva-b1b42ab2/
-
-
-Data de entrega: Até domingo (18/07) 23:59
+Para acessar a documentação e realizar os testes -> https://devtestmovies.herokuapp.com/swagger-ui.html#/
