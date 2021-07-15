@@ -6,5 +6,5 @@
   
   Foi realizado  deploy da aplicação para o Heroku, junto com sua documentação pelo Swagger.
   
-  **Para acessar a documentação e realizar os testes -> https://devtestmovies.herokuapp.com/swagger-ui.html#/
+  Para acessar a documentação e realizar os testes -> https://devtestmovies.herokuapp.com/swagger-ui.html#/
   
